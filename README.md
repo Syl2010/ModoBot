@@ -1,1 +1,1 @@
-Bot de modération, ajoute des commandes et peut gérer des channels textuels.
+Projet déplacé ici : https://git.syl2010.fr
